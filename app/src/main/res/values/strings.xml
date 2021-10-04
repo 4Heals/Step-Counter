@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Steps</string>
+
+    <string name="title_pedometer">Pedometer</string>
+    <string name="title_acceleration">Accelerometer</string>
+
+    <string name="pedometer">pedometer</string>
+    <string name="number_of_steps">No. of Steps:</string>
+    <string name="pedometer_running">Pedometer Running</string>
+    <string name="pedometer_not_running">Pedometer Stopped</string>
+    <string name="type_of_step">Step Type:</string>
+    <string name="duration_of_step">Step Duration:</string>
+
+    <string name="acitvate_pedometer">Start</string>
+    <string name="disable_pedometer">Stop</string>
+
+    <string name="results">Results</string>
+    <string name="of_the_last_measurement">of the last measurement (estimated)</string>
+    <string name="total_steps">Total steps:</string>
+    <string name="from_that">from that…</string>
+    <string name="walking_steps">Walking:</string>
+    <string name="jogging_steps">Jogging / Fast Walk:</string>
+    <string name="running_steps">Running:</string>
+    <string name="total_distance">Total Distance:</string>
+    <string name="average_speed">Average Speed:</string>
+    <string name="average_frequency">Average Frequency:</string>
+    <string name="burned_calories">Calories Burned:</string>
+    <string name="moving_time">Time:</string>
+
+    <string name="walking">Walking</string>
+    <string name="jogging">Jogging</string>
+    <string name="running">Running</string>
+
+    <string name="live_data">Live-Data</string>
+    <string name="graph">Graph</string>
+    <string name="accel_unit" translatable="false">m/s²</string>
+    <string name="milliampere_unit" translatable="false">mA</string>
+    <string name="details">Details</string>
+
+    <string name="name">Name:</string>
+    <string name="manufacturer">Hersteller:</string>
+    <string name="version">Version:</string>
+    <string name="energy">Energy:</string>
+    <string name="resolution">Resolution:</string>
+    <string name="max_range">max. Range:</string>
+    <string name="min_range">min. Range:</string>
+    <string name="accuracy">Accuracy:</string>
+    <string name="delay">Delay:</string>
+</resources>
